@@ -22,7 +22,7 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/qa-agent.git
+git clone https://github.com/rwmotivation/qa-agent.git
 cd qa-agent
 ```
 
@@ -159,4 +159,4 @@ MIT — free to use, modify, and distribute.
 
 ---
 
-<p align="center">Built with ❤️ and <a href="https://anthropic.com">Claude AI</a></p>
+<p align="center">Built with ❤️ by Rahul Williams and </p>
