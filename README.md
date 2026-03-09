@@ -159,4 +159,4 @@ MIT — free to use, modify, and distribute.
 
 ---
 
-<p align="center">Built with ❤️ by Rahul Williams and </p>
+<p align="center">Built with ❤️ by Rahul Williams </p>
